@@ -7,6 +7,8 @@ for [`PySyun Timeline`](https://github.com/pysyun/pysyun-timeline) Pipelines.
 
 The `Environment` class, implemented in this library, implements the [`Chainable`](https://github.com/pysyun/pysyun_chain?tab=readme-ov-file#chainable-class) interface to simplify chainable pipeline development. 
 
+![Tensor flow](tensor_flow.png)
+
 ## Examples
 
 ### Uniswap Environment example
