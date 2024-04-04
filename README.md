@@ -27,3 +27,6 @@ The `Environment` class, implemented in this library, implements the [`Chainable
    ```text
    (TimeLine() | Environment()).process()
    ```
+
+## Team coordination
+- Development tasks: [documentation/tasks.md](./documentation/tasks.md).
