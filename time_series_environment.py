@@ -4,7 +4,7 @@ from tf_agents.specs import array_spec
 from tf_agents.trajectories import time_step as ts
 
 
-class TimeSeriesEnvironment(py_environment.PyEnvironment):
+class TimeSeriesWeeklyEnvironment(py_environment.PyEnvironment):
     def __init__(self):
         self._action_spec = array_spec.BoundedArraySpec(
             shape=(), dtype=np.int32, minimum=0, maximum=1, name='action')
